@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+#formulario{
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#formulario #titulo{
+    text-align: center;
+    margin: 10px;
+}
+#formulario #inputs{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 30px;
+}
+#botao{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#link{
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+#link a{
+    text-decoration: none;
+    cursor: pointer;
+}
+#link a:hover{
+    color: black;
+}
