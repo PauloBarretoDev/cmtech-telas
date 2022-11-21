@@ -7,12 +7,13 @@ import ListagemUsuario from './ListagemUsuario'
 import reportWebVitals from './reportWebVitals';
 import CadastroCliente from './CadastroCliente';
 import CadastroUsuario from './CadastroUsuario';
+import ListagemOrganizacao from './ListagemOrganizacao';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <CadastroUsuario/>
+    <ListagemOrganizacao/>
   </React.StrictMode>
 );
 
